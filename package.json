@@ -1,0 +1,15 @@
+{
+  "name": "binarysearchsaurabh",
+  "version": "1.0.2",
+  "description": "binary search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search"
+  ],
+  "author": "saurabh shrikhande",
+  "license": "ISC"
+}
